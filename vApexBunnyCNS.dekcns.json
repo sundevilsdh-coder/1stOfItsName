@@ -1,0 +1,13 @@
+[
+    {
+        "UniqueFitID": "First Descendant Bunny Apex Predator",
+        "Requirement": "None",
+        "DisplayName": "First Descendant Bunny Apex Predator",
+        "Description": "CNS Suit",
+        "OutfitTypes": [],
+        "OutfitImage": "/Game/Art/UI/Texture/Item/NanoSuit/NanoSuit_Icon_BS_19.NanoSuit_Icon_BS_19",
+        "OutfitPaths": [
+            "/Game/OutfitMods/First_Descendant_BunnyApexPredator/CH_P_EVE_19CNS.CH_P_EVE_19CNS"
+        ]
+    }
+]
